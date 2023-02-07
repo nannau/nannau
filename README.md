@@ -1,7 +1,7 @@
 # ⛵️ About me 
-* 🤓 I’m Nic (@nannau) and I'm interested in climate science, atmospheric physics, climate services, and statistical downscaling. 
-* 👀 Interested in GANs, computer vision, deep learning, and statistical downscaling
-* 🖥 PyTorch, MLflow, Docker, for reproducible science
+* 🤓 I’m Nic (@nannau) and I'm a physical scientist, data scientist, and software developer.
+* 👀 Interested in GANs, computer vision, and deep learning to solve problems in climate science, atmospheric physics, climate services, and statistical downscaling.
+* 🖥 I've been working recently with PyTorch, MLflow, and Docker, for reproducible science and nice workflows.
 * 📫 How to reach me nicannau@gmail.com
 
 <!---
