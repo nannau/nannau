@@ -1,9 +1,10 @@
 # ⛵️ About me 
 * 🤓 Scientist + engineer interested in climate/weather AI
+* 🐍 I specialize in Python and designing complex data science applications and pipelines
+* 🌨️ MSc in atmospheric sciences, and BSc in physics + astrophysics
+* 🚀 Interested in scaling ML pipelines (multi-GPU/multi-node with Lightning AI, PyTorch, MLFlow, Comet ML)
 * 🌎 Currently deeply involved with designing CanESM infrastructure with the [Integrated Modelling System Infrastructure (IMSI)](https://gitlab.com/cccma/imsi)
 * 🤖 Tinkering with GANs, stable diffusion, ConvNets (sorry, not all open source!)
-* 🐍 I specialize in Python and designing complex data science applications
-* 🔭 Formally trained in physics + astrophysics, atmospheric sciences, and software engineering
 
 # ✨ Where I've been ✨
 * [Herzberg Astronomy and Astrophysics](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre), National Research Council of Canada 🇨🇦
