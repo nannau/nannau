@@ -3,7 +3,7 @@
 * 🤓 Scientist + engineer interested in climate/weather AI
 * 🐍 I specialize in Python and designing complex data science applications
 * 🔭 Formally trained in physics + astrophysics, atmospheric sciences, and software engineering
-* 🌎 Currently designing CanESM infrastructure (integration modelling system infrastructure)[https://gitlab.com/cccma/imsi]
+* 🌎 Currently designing CanESM infrastructure [integration modelling system infrastructure](https://gitlab.com/cccma/imsi)
 
 # ✨ Where I've been ✨
 * [Herzberg Astronomy and Astrophysics](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre), National Research Council of Canada 🇨🇦
