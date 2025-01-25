@@ -26,10 +26,6 @@ Herwig et al. (2018) - Cyberhubs: Virtual research environments for astronomy
 The Astrophysical Journal Supplement Series, 236(1), 2.
 DOI: 10.3847/1538-4365/aabfe7
 
-## Astrophysics and Cosmology
-Dwarf Galaxies and Stellar Populations
-Higgs et al. (2021) - Solo dwarfs II: the stellar structure of isolated Local Group dwarf galaxies
-
 Monthly Notices of the Royal Astronomical Society, 503(1), 176–199.
 DOI: 10.1093/mnras/stab499
 Thomas et al. (2019) - Dwarfs or giants? stellar metallicities and distances from ugrizg multiband photometry
@@ -38,6 +34,10 @@ The Astrophysical Journal, 886(1), 10.
 DOI: 10.3847/1538-4357/ab4a7f
 Thomas et al. (2020) - VizieR Online Data Catalog: Dwarfs or giants? Stellar metallicities & distances (Thomas+, 2019)
 VizieR Online Data Catalog, J–ApJ.
+
+## Astrophysics and Cosmology
+Dwarf Galaxies and Stellar Populations
+Higgs et al. (2021) - Solo dwarfs II: the stellar structure of isolated Local Group dwarf galaxies
 
 Christensen et al. (2017) - Solving the conundrum of intervening strong Mg II absorbers towards gamma-ray bursts and quasars
 Astronomy & Astrophysics, 608, A84.
