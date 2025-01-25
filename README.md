@@ -1,7 +1,7 @@
 # ⛵️ About me 
+* 🤓 Scientist + engineer interested in climate/weather AI
 * 🌎 Currently deeply involved with designing CanESM infrastructure with the [Integrated Modelling System Infrastructure (IMSI)](https://gitlab.com/cccma/imsi)
 * 🤖 Tinkering with GANs, stable diffusion, ConvNets (sorry, not all open source!)
-* 🤓 Scientist + engineer interested in climate/weather AI
 * 🐍 I specialize in Python and designing complex data science applications
 * 🔭 Formally trained in physics + astrophysics, atmospheric sciences, and software engineering
 
