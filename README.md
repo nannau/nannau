@@ -16,7 +16,7 @@
 
 # 🎯 What I'd like to create next
 * Operational climate/weather AI that forecasts actionable information (accurate, fast, high-resolution, and on relevant timescales)
-* New means for storing and processing multidimensional data
+* Better means for storing and processing multidimensional data
 * Purpose built ML models 
 
 # 🤔 Things I'm thinking about
