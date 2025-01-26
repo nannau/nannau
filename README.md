@@ -1,17 +1,29 @@
 # ⛵️ About me 
-* 🤓 Scientist + engineer interested in climate/weather AI
-* 🐍 I specialize in Python and designing complex data science applications and pipelines
+* 🤓 Scientist + developer interested in climate/weather AI
+* 🐍 I specialize in Python, ML, and designing complex data science applications and pipelines
 * 🌨️ MSc in atmospheric sciences, and BSc in physics + astrophysics
 * 🚀 Interested in scaling ML pipelines (multi-GPU/multi-node with Lightning AI, PyTorch, MLFlow, Comet ML)
-* 🌎 Currently deeply involved with designing CanESM infrastructure with the [Integrated Modelling System Infrastructure (IMSI)](https://gitlab.com/cccma/imsi)
+* 🌎 Currently deeply involved with designing CanESM infrastructure with [Integrated Modelling System Infrastructure (IMSI)](https://gitlab.com/cccma/imsi)
 * 🤖 Tinkering with GANs, stable diffusion, ConvNets (sorry, not all open source!)
 
 # ✨ Where I've been ✨
-* [Herzberg Astronomy and Astrophysics](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre), National Research Council of Canada 🇨🇦
-* [Dark Cosmology Centre](https://cms.ku.dk/nat-sites/nbi-sites/dark/), Neils Bohr Institute, Denmark 🇩🇰
-* [Pacific Climate Impacts Consoritum](https://pacificclimate.org/) @pacificclimate 🇨🇦
-* Climate Data and Analysis Section, Environment and Climate Change Canada 🇨🇦
-* Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada 🇨🇦
+* 👨‍💻 Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada 🇨🇦
+* 👷 Climate Data and Analysis Section, Environment and Climate Change Canada 🇨🇦
+* 🏛️ University of Victoria Climate Lab 🇨🇦
+* 🌎 [Pacific Climate Impacts Consoritum](https://pacificclimate.org/) @pacificclimate 🇨🇦
+* 🔭 [Herzberg Astronomy and Astrophysics](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre), National Research Council of Canada 🇨🇦
+* 🌃 [Dark Cosmology Centre](https://cms.ku.dk/nat-sites/nbi-sites/dark/), Neils Bohr Institute, Denmark 🇩🇰
+
+# 🎯 What I'd like to create
+* Operational climate/weather AI that forecasts actionable information (accurate, fast, high-resolution, and on relevant timescales)
+* New paradigms of data management
+* Purpose built climate/weather models 
+
+# 🤔 Things I'm thinking about
+I have been writing software for approximately 10 years. In that time I've noticed some themes that I'm trying to learn from as part of my continual growth as a scientific software developer.
+* Great science follows from great infrastructure, not necessarily the other way around.
+* Reproducibility is a cornerstone of good science. Clarity and simplicity in programming work together towards reproducible science. Too often do scientists exempt themselves from these practices because science is hard. The fact that science is hard only strengthens the need for clarity and simplicty in programming.
+* ["_Premature optimization is the root of all evil_"](https://m.xkcd.com/1691/)  - Donald Knuth
 
 # 📖 Publications 
 
