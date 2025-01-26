@@ -16,8 +16,8 @@
 
 # 🎯 What I'd like to create next
 * Operational climate/weather AI that forecasts actionable information (accurate, fast, high-resolution, and on relevant timescales)
-* New paradigms of climate/weather data management
-* Purpose built climate/weather models 
+* New means for storing and processing multidimensional data
+* Purpose built ML models 
 
 # 🤔 Things I'm thinking about
 I have been writing software for approximately 10 years. In that time I've noticed some themes that I'm trying to learn from as part of my continual growth as a scientific software developer.
