@@ -14,9 +14,9 @@
 * 🔭 [Herzberg Astronomy and Astrophysics](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre), National Research Council of Canada 🇨🇦
 * 🌃 [Dark Cosmology Centre](https://cms.ku.dk/nat-sites/nbi-sites/dark/), Neils Bohr Institute, Denmark 🇩🇰
 
-# 🎯 What I'd like to create
+# 🎯 What I'd like to create next
 * Operational climate/weather AI that forecasts actionable information (accurate, fast, high-resolution, and on relevant timescales)
-* New paradigms of data management
+* New paradigms of climate/weather data management
 * Purpose built climate/weather models 
 
 # 🤔 Things I'm thinking about
