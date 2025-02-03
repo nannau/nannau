@@ -1,4 +1,5 @@
-# ⛵️ About me 
+![Untitled design](https://github.com/user-attachments/assets/208ebf9e-ad64-4f7c-afc0-f894e5d7fc92)
+# About me
 * 🤓 Scientist + developer interested in climate/weather AI
 * 🐍 I specialize in Python, ML, and designing complex data science applications and pipelines
 * 🌨️ MSc in atmospheric sciences, and BSc in physics + astrophysics
@@ -56,6 +57,17 @@ DOI: https://doi.org/10.1093/mnras/stab002
 * Christensen et al. (2017) - Solving the conundrum of intervening strong Mg II absorbers towards gamma-ray bursts and quasars
 Astronomy & Astrophysics, 608, A84.
 DOI: 10.1051/0004-6361/201731340
+
+# Conference Talks
+* ECMWF 2022 Machine Learning Workshop
+* CMOS 2022, Computational Methods
+  Machine Learning and Model Development: _Extreme Super‑Resolution and Downscaling of Wind Fields at
+Convection‑Permitting Scales_ 
+* 6th Spatial Statistics
+  _Generative adversarial networks for super‑resolving near‑surface wind patterns_
+* CMOS 2024
+  Leveraging AI for Enganced High-Resolution Regional Climate Modelling: _ClimatExML: Designing AI Software for the Computational Demands of High‑Resolution Climate Models_
+
 
 <!---
 nannau/nannau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
