@@ -1,30 +1,9 @@
 ![Untitled design](https://github.com/user-attachments/assets/208ebf9e-ad64-4f7c-afc0-f894e5d7fc92)
 # About me
-* 🤓 Scientist + developer interested in climate/weather AI
-* 🐍 I specialize in Python, ML, and designing complex data science applications and pipelines
-* 🌨️ MSc in atmospheric sciences, and BSc in physics + astrophysics
-* 🚀 Interested in scaling ML pipelines (multi-GPU/multi-node with Lightning AI, PyTorch, MLFlow, Comet ML)
-* 🌎 Currently deeply involved with designing CanESM infrastructure with [Integrated Modelling System Infrastructure (IMSI)](https://gitlab.com/cccma/imsi)
-* 🤖 Tinkering with GANs, stable diffusion, ConvNets (sorry, not all open source!)
-
-# ✨ Where I've been ✨
-* 👨‍💻 Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada 🇨🇦
-* 👷 Climate Data and Analysis Section, Environment and Climate Change Canada 🇨🇦
-* 🏛️ University of Victoria Climate Lab 🇨🇦
-* 🌎 [Pacific Climate Impacts Consoritum](https://pacificclimate.org/) @pacificclimate 🇨🇦
-* 🔭 [Herzberg Astronomy and Astrophysics](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre), National Research Council of Canada 🇨🇦
-* 🌃 [Dark Cosmology Centre](https://cms.ku.dk/nat-sites/nbi-sites/dark/), Neils Bohr Institute, Denmark 🇩🇰
-
-# 🎯 What I'd like to create next
-* Operational climate/weather AI that forecasts actionable information (accurate, fast, high-resolution, and on relevant timescales)
-* Better means for storing and processing multidimensional data
-* Purpose built ML models 
-
-# 🤔 Things I'm thinking about
-I have been writing software for approximately 10 years. In that time I've noticed some themes that I'm trying to learn from as part of my continual growth as a scientific software developer.
-* Great science follows from great infrastructure, not necessarily the other way around.
-* Reproducibility is a cornerstone of good science. Clarity and simplicity in programming work together towards reproducible science. Too often do scientists exempt themselves from these practices because science is hard. The fact that science is hard only strengthens the need for clarity and simplicty in programming.
-* ["_Premature optimization is the root of all evil_"](https://m.xkcd.com/1691/)  - Donald Knuth
+* Scientist + developer interested in high-performance computing and scientific software systems
+* I specialize in Python, ML, and designing complex data science applications and pipelines
+* MSc in atmospheric sciences, and BSc in physics + astrophysics
+* Interested in scaling ML pipelines (multi-GPU/multi-node with Lightning AI, PyTorch, MLFlow, Comet ML)
 
 # 📖 Publications 
 
@@ -67,9 +46,3 @@ Convection‑Permitting Scales_
   _Generative adversarial networks for super‑resolving near‑surface wind patterns_
 * CMOS 2024
   Leveraging AI for Enganced High-Resolution Regional Climate Modelling: _ClimatExML: Designing AI Software for the Computational Demands of High‑Resolution Climate Models_
-
-
-<!---
-nannau/nannau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
